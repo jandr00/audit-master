@@ -1,0 +1,4 @@
+git add .
+git commit -m "adding screenChangeVirtualbox.bash"
+git push origin master
+
